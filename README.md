@@ -13,6 +13,19 @@ But what if you want something to happen every 2 seconds and then at the 7th sec
 
 That's where **Easy Timeline** comes into play.
 
+###Installation
+
+You can install it via Cocoapods:
+
+Add into your Podfile:
+
+	pod 'EasyTimeline', :git => 'https://github.com/mmislam101/EasyTimeline'
+And run
+
+	pod update
+
+Or you can just add EasyTimeline folder to your project.
+
 ###Setup
 
 Init with: 
